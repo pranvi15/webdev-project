@@ -1,1 +1,2 @@
-# webdev-project
+# SCCS
+Software Component Catalogue Software
